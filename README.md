@@ -1,15 +1,9 @@
-### Date created
-Include the date you created this project and README file.
+First version created March 4
 
-### Project Title
-Replace the Project Title
+Bikeshare database processor
 
-### Description
-Describe what your project is about and what it does
+Python tool that calculates and print descriptives of a bikeshare database
 
-### Files used
-Include the files used
+3 additional files used: one for chicago, one for new york and one for washington
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credits go to the Udacity team and the anonymous brilliant programmer who wrote the code
